@@ -1,7 +1,7 @@
 let productos = [
     {
         id: 1,
-        img1: './../img/Abbey_Road.jpg',
+        img1: './img/Abbey_Road.jpg',
         nombre: 'Abbey Road',
         desc1: 'Artista: The Beatles',
         desc2: 'Genero: Rock, Pop',
@@ -11,7 +11,7 @@ let productos = [
     },
     {
         id: 2,
-        img1: './../img/revolver.jpg',
+        img1: './img/revolver.jpg',
         nombre: 'Revolver',
         desc1: 'Artista: The Beatles',
         desc2: 'Genero: Rock, Pop',
@@ -21,7 +21,7 @@ let productos = [
     },
     {
         id: 3,
-        img1: './../img/_Lonely_Hearts_Club_Band.jpg',
+        img1: './img/_Lonely_Hearts_Club_Band.jpg',
         nombre: 'The Lonely Hearts Club Band',
         desc1: 'Artista: The Beatles',
         desc2: 'Genero: Pop, Rock, Psicodelico',
@@ -31,7 +31,7 @@ let productos = [
     },
     {
         id: 4,
-        img1: './../img/TheDarkSideftheMoon.jpg',
+        img1: './img/TheDarkSideftheMoon.jpg',
         nombre: 'The Dark Side of the Moon',
         desc1: 'Artista: Pink Floyd',
         desc2: 'Genero: Rock, Progresivo',
@@ -41,7 +41,7 @@ let productos = [
     },
     {
         id: 5,
-        img1: './../img/WishYouWereHere.jpg',
+        img1: './img/WishYouWereHere.jpg',
         nombre: 'Wish You Were Here',
         desc1: 'Artista: Pink Floyd',
         desc2: 'Genero: Rock, Progresivo',
@@ -51,7 +51,7 @@ let productos = [
     },
     {
         id: 6,
-        img1: './../img/TheWall.jpg',
+        img1: './img/TheWall.jpg',
         nombre: 'The Wall',
         desc1: 'Artista: Pink Floyd',
         desc2: 'Genero: Rock, Progresivo',
@@ -61,7 +61,7 @@ let productos = [
     },
     {
         id: 7,
-        img1: './../img/Queen\'sGreatestHits.jpg',
+        img1: './img/Queen\'sGreatestHits.jpg',
         nombre: 'Queen\'s Greatest Hits',
         desc1: 'Artista: Queen',
         desc2: 'Genero: Rock, Progresivo',
@@ -71,7 +71,7 @@ let productos = [
     },
     {
         id: 8,
-        img1: './../img/ANightattheOpera.jpg',
+        img1: './img/ANightattheOpera.jpg',
         nombre: 'A Night at the Opera',
         desc1: 'Artista: Queen',
         desc2: 'Genero: Rock, Progresivo',
@@ -81,7 +81,7 @@ let productos = [
     },
     {
         id: 9,
-        img1: './../img/NewsoftheWorld.jpg',
+        img1: './img/NewsoftheWorld.jpg',
         nombre: 'News of the World',
         desc1: 'Artista: Queen',
         desc2: 'Genero: Rock, Progresivo',
