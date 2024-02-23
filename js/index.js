@@ -21,7 +21,7 @@ let productos = [
     },
     {
         id: 3,
-        img1: './img/_Lonely_Hearts_Club_Band.jpg',
+        img1: './img/LonelyHeartsClubBand.jpg',
         nombre: 'The Lonely Hearts Club Band',
         desc1: 'Artista: The Beatles',
         desc2: 'Genero: Pop, Rock, Psicodelico',
